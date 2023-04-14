@@ -17,4 +17,3 @@ Therefore, 2021 data has been considered for 2022 in the analysis.
 3. `zip_codes.ipynb` contains the code used to scrape [www.nycbynatives.com/](https://www.nycbynatives.com/nyc_info/new_york_city_zip_codes.php) for NYC zip codes.
 
 * `docs:` This folder contains the parquet and csv files for the 311 data, census data and zip codes. The file used for statistical analysis is `data_cleaned_long.csv`.
-
